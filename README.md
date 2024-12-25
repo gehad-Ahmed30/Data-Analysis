@@ -15,10 +15,8 @@ This repository is designed to provide a comprehensive guide for **data visualiz
   - Stacked area plots  
 
 - **Two Complete Data Analysis Projects:**  
-  1. **Sales Analysis:**  
-     A project designed to uncover sales trends and performance across regions and time periods using visualizations.  
-  2. **Expense Tracking:**  
-     Explore expense patterns, trends, and summaries through detailed charts and analysis.  
+  1. **Zomato Data Analysis Project:**   
+  2. **Hotels Data Analysis Project:**    
 
 These projects offer a hands-on approach to solving real-world problems with data.
 
