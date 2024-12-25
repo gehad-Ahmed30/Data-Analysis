@@ -1,4 +1,4 @@
-# **Auto-Analysis**
+# **Data-Analysis**
 
 This repository is designed to provide a comprehensive guide for **data visualization** using the **Pandas library**. Whether you're a beginner or an experienced data analyst, you'll find plenty of practical examples to help you turn raw data into meaningful visual insights.
 
