@@ -19,6 +19,7 @@ This repository is designed to provide a comprehensive guide for **data visualiz
   2. **Hotels Data Analysis Project:**
   3. **Video Games Analysis Project:**
   4. **customer shopping project:**
+  5. **Laptop Price Project:**
 
 These projects offer a hands-on approach to solving real-world problems with data.
 
